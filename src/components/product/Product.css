@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    margin: 40px 0;
+}
+.product-img{
+    margin-right: 20px;
+}
+.product-info{
+    padding: 0 20px;
+}
+.product-info button{
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    background-color: #f89801;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.rating-icon{
+    color: #f89801;
+}

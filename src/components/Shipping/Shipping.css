@@ -1,0 +1,17 @@
+.shipping-container{
+    display: flex;
+    justify-content: center;
+    margin: 40px 0 0 0;
+}
+
+.shipping-form input{
+    display: block;
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 300px;
+}
+.error{
+    color: red;
+}
